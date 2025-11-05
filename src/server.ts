@@ -35,6 +35,7 @@ app.use(
 app.use(express.json({ limit: "10mb" }));
 app.use(express.urlencoded({ extended: true }));
 
+//logger console
 // Request logging
 app.use(
   pinoHttp({
