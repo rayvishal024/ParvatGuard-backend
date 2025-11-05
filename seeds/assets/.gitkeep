@@ -1,0 +1,4 @@
+# Place offline pack assets here
+# Example: map images, JSON files, etc.
+# These would typically be stored in S3/CDN in production
+
