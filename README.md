@@ -1,6 +1,7 @@
 # ParvatGuard Backend API
 
-Node.js + TypeScript + Express backend API for the ParvatGuard mobile safety app.
+Node.js + TypeScript + Express backend API for the ParvatGuard mobile safety app with authentication, user profiles, emergency contacts, trip management, and alert logging. Designed for secure and efficient handling of user data and alerts in a mountain trekking context.
+
 
 ## Tech Stack
 
